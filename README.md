@@ -2,6 +2,9 @@
 
 A fun, interactive, and visually stunning word puzzle game set in space! Challenge yourself to solve word puzzles, climb the leaderboard, and enjoy a cosmic-themed UI experience.
 
+## Deployed Link
+https://v0-daily-word-puzzle-game.vercel.app/
+
 ## Features
 - User authentication (Sign up, Login, Profile)
 - Engaging word puzzle gameplay
